@@ -16,9 +16,10 @@ Feel free to access [my portfolio](http://gauravpr.com)
 Back to normal indentation.
 
 ### Crazy good software
+
 * rapid dev
-+ tested
-- 24/7
+* tested
+* 24/7
 
 ## testing double hash
 
